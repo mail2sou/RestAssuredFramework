@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Hybrid Rest Assured Test Suite">
-    <test name="Hybrid Rest Assured Test">
+<suite name="Rest Assured Test Suite">
+    <test name="Rest Assured Test">
         <classes>
             <class name="positions_testcase.TestCase01_HappyPath_One_Timestamp">
             </class>
